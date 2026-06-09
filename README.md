@@ -1,2 +1,2 @@
-Thong bao: 
+Thong bao:  
 Khong co gi
