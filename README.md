@@ -1,1 +1,2 @@
-da chinh sua
+Thong bao:
+Khong co gi
