@@ -1,2 +1,2 @@
 Thong bao: 
-Khong co gi
+ da sua
